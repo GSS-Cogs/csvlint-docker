@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'csvlint', github: 'ONS-OpenData/csvlint.rb'
+gem 'csvlint', github: 'GSS-Cogs/csvlint.rb'
