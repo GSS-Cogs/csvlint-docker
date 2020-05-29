@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'csvlint', github: 'GSS-Cogs/csvlint.rb', :ref => '2c82993f8dcd65e4878906c70388f27be4583288'
+gem 'csvlint', github: 'GSS-Cogs/csvlint.rb', :ref => 'f859165bee3e99212ab6a4afb3308212ce3f7cb0'
